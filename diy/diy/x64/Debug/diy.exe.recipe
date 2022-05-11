@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\sdl\diy\x64\Debug\diy.exe</FullPath>
+      <FullPath>D:\github\diy\x64\Debug\diy.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -1,2 +1,2 @@
 ﻿  Source.cpp
-D:\sdl\diy\diy\Source.cpp(6): error C4716: 'SDL_main': must return a value
+  diy.vcxproj -> D:\github\diy\x64\Debug\diy.exe
