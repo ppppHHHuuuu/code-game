@@ -1,0 +1,35 @@
+Tank1 : T-Pink 
+Character: 
+- maxBullet: 7
+- delayTimeReload: 2
+- maxHealth: 14
+- damagePerShot: 1
+- amountPerHealing: 4
+- minusHealth: 2
+
+Tank2: T-Red
+Character:
+- maxBullet: 12
+- delayTimeReload: 3
+- maxHealth: 7 
+- damagePerShot: 3
+- amountPerHealing: 2
+- minusHealth: 2
+
+Tank3: T-Yellow
+Character:
+- maxBullet: 10
+- delayTimeReload: 2
+- maxHealth: 10
+- damagePerShot: 2
+- amountPerHealing: 2
+- minusHealth: 1
+
+Tank4: T-Violet
+Character:
+- maxBullet: 10
+- delayTimeReload: 2
+- maxHealth: 10
+- damagePerShot: 2
+- amountPerHealing: 2
+- minusHealth: 1

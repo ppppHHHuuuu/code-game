@@ -1,0 +1,421 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Candara
+FamilyName:Candara
+StyleName:Regular
+FullName:Candara
+MenuName:Candara
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\Candara.ttf
+DataFormat:sfntData
+FileLength:219532
+FileModTime:1652950748
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Candara-Bold
+FamilyName:Candara
+StyleName:Bold
+FullName:Candara Bold
+MenuName:Candara
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\Candarab.ttf
+DataFormat:sfntData
+FileLength:227604
+FileModTime:1652950748
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Candara-Italic
+FamilyName:Candara
+StyleName:Italic
+FullName:Candara Italic
+MenuName:Candara
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\Candarai.ttf
+DataFormat:sfntData
+FileLength:227648
+FileModTime:1652950748
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Candara-Light
+FamilyName:Candara
+StyleName:Light
+FullName:Candara Light
+MenuName:Candara Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\Candaral.ttf
+DataFormat:sfntData
+FileLength:122132
+FileModTime:1652950748
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Candara-LightItalic
+FamilyName:Candara
+StyleName:Light Italic
+FullName:Candara Light Italic
+MenuName:Candara Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\Candarali.ttf
+DataFormat:sfntData
+FileLength:120996
+FileModTime:1652950748
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Candara-BoldItalic
+FamilyName:Candara
+StyleName:Bold Italic
+FullName:Candara Bold Italic
+MenuName:Candara
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\Candaraz.ttf
+DataFormat:sfntData
+FileLength:229364
+FileModTime:1652950748
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-Bold
+FamilyName:JetBrains Mono
+StyleName:Bold
+FullName:JetBrains Mono Bold
+MenuName:JetBrains Mono
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-Bold.ttf
+DataFormat:sfntData
+FileLength:210128
+FileModTime:1652950748
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-BoldItalic
+FamilyName:JetBrains Mono
+StyleName:Bold Italic
+FullName:JetBrains Mono Bold Italic
+MenuName:JetBrains Mono
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:212756
+FileModTime:1652950748
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-ExtraBold
+FamilyName:JetBrains Mono
+StyleName:ExtraBold
+FullName:JetBrains Mono ExtraBold
+MenuName:JetBrains Mono ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-ExtraBold.ttf
+DataFormat:sfntData
+FileLength:210688
+FileModTime:1652950748
+WeightClass:800
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-ExtraBoldItalic
+FamilyName:JetBrains Mono
+StyleName:ExtraBold Italic
+FullName:JetBrains Mono ExtraBold Italic
+MenuName:JetBrains Mono ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-ExtraBoldItalic.ttf
+DataFormat:sfntData
+FileLength:214464
+FileModTime:1652950748
+WeightClass:800
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-ExtraLight
+FamilyName:JetBrains Mono
+StyleName:ExtraLight
+FullName:JetBrains Mono ExtraLight
+MenuName:JetBrains Mono ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-ExtraLight.ttf
+DataFormat:sfntData
+FileLength:204132
+FileModTime:1652950748
+WeightClass:200
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-ExtraLightItalic
+FamilyName:JetBrains Mono
+StyleName:ExtraLight Italic
+FullName:JetBrains Mono ExtraLight Italic
+MenuName:JetBrains Mono ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-ExtraLightItalic.ttf
+DataFormat:sfntData
+FileLength:209508
+FileModTime:1652950748
+WeightClass:200
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-Italic
+FamilyName:JetBrains Mono
+StyleName:Italic
+FullName:JetBrains Mono Italic
+MenuName:JetBrains Mono
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-Italic.ttf
+DataFormat:sfntData
+FileLength:211180
+FileModTime:1652950748
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-Light
+FamilyName:JetBrains Mono
+StyleName:Light
+FullName:JetBrains Mono Light
+MenuName:JetBrains Mono Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-Light.ttf
+DataFormat:sfntData
+FileLength:205672
+FileModTime:1652950748
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-LightItalic
+FamilyName:JetBrains Mono
+StyleName:Light Italic
+FullName:JetBrains Mono Light Italic
+MenuName:JetBrains Mono Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-LightItalic.ttf
+DataFormat:sfntData
+FileLength:211428
+FileModTime:1652950748
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-Medium
+FamilyName:JetBrains Mono
+StyleName:Medium
+FullName:JetBrains Mono Medium
+MenuName:JetBrains Mono Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-Medium.ttf
+DataFormat:sfntData
+FileLength:204140
+FileModTime:1652950748
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-MediumItalic
+FamilyName:JetBrains Mono
+StyleName:Medium Italic
+FullName:JetBrains Mono Medium Italic
+MenuName:JetBrains Mono Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-MediumItalic.ttf
+DataFormat:sfntData
+FileLength:211020
+FileModTime:1652950748
+WeightClass:500
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-Regular
+FamilyName:JetBrains Mono
+StyleName:Regular
+FullName:JetBrains Mono Regular
+MenuName:JetBrains Mono
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-Regular.ttf
+DataFormat:sfntData
+FileLength:203952
+FileModTime:1652950748
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-SemiBold
+FamilyName:JetBrains Mono
+StyleName:SemiBold
+FullName:JetBrains Mono SemiBold
+MenuName:JetBrains Mono SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-SemiBold.ttf
+DataFormat:sfntData
+FileLength:209524
+FileModTime:1652950748
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-SemiBoldItalic
+FamilyName:JetBrains Mono
+StyleName:SemiBold Italic
+FullName:JetBrains Mono SemiBold Italic
+MenuName:JetBrains Mono SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-SemiBoldItalic.ttf
+DataFormat:sfntData
+FileLength:212844
+FileModTime:1652950748
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-Thin
+FamilyName:JetBrains Mono
+StyleName:Thin
+FullName:JetBrains Mono Thin
+MenuName:JetBrains Mono Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-Thin.ttf
+DataFormat:sfntData
+FileLength:202076
+FileModTime:1652950748
+WeightClass:100
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JetBrainsMono-ThinItalic
+FamilyName:JetBrains Mono
+StyleName:Thin Italic
+FullName:JetBrains Mono Thin Italic
+MenuName:JetBrains Mono Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\lập trình nâng cao\Visual Studio Projects\merge\LTNC2022_UET_Nhom17_TankWarfare\SDL\assets\Font\JetBrainsMono-ThinItalic.ttf
+DataFormat:sfntData
+FileLength:206184
+FileModTime:1652950748
+WeightClass:100
+WidthClass:5
+AngleClass:1
+%EndFont
+
