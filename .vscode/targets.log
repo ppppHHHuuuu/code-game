@@ -1,4 +1,6 @@
 make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+
 # GNU Make 4.3
 # Built for x86_64-pc-msys
 # Copyright (C) 1988-2020 Free Software Foundation, Inc.
@@ -7,10 +9,11 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Mon May 23 11:52:42 2022
+# Make data base, printed on Mon May 23 14:18:04 2022
 
 # Variables
 
+ 
 # environment
 SYSTEMDRIVE = C:
 # environment
@@ -22,9 +25,9 @@ USERPROFILE = C:\Users\doanv
 # environment
 LOCALAPPDATA = C:\Users\doanv\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-5aa14d73-bb89-4f2d-8ba2-28f91fc2c784-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-b4b898e9-a14f-49f2-9bab-9e6a068a8539-sock
 # environment
-VSCODE_CWD = C:\Users\doanv\AppData\Local\Programs\Microsoft VS Code
+VSCODE_CWD = C:\WINDOWS\system32
 # environment
 SYSTEMROOT = C:\WINDOWS
 # environment
@@ -36,7 +39,7 @@ MAKE_COMMAND := make
 # automatic
 @D = $(patsubst %/,%,$(dir $@))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_14012_XLZVAMTMTVMUOPCZ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_41724_EUTPZGMOFQNBYVHF
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -45,7 +48,6 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 %D = $(patsubst %/,%,$(dir $%))
 # automatic
 ^D = $(patsubst %/,%,$(dir $^))
- 
 # environment
 VSCODE_LOG_STACK = false
 # automatic
@@ -89,7 +91,7 @@ MAKEFILE_LIST := Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 14012
+VSCODE_PID = 41724
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # automatic
@@ -138,16 +140,21 @@ VSCODE_LOG_NATIVE = false
 USERNAME = doanv
 # environment
 COMMONPROGRAMFILES = C:\Program Files\Common Files
+ 
 # automatic
 ?F = $(notdir $?)
 # environment
 PROGRAMW6432 = C:\Program Files
 # environment
+ 
 PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+ 
 # automatic
 +F = $(notdir $+)
+ 
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+ 
 # environment
 USERDOMAIN = DESKTOP-AQ1M28G
 # 'override' directive
@@ -155,7 +162,7 @@ GNUMAKEFLAGS :=
 # environment
 OS = Windows_NT
 # makefile
-.DEFAULT_GOAL := all
+.DEFAULT_GOAL := compile
 # default
 MAKE_VERSION := 4.3
 # environment
@@ -171,6 +178,7 @@ PUBLIC = C:\Users\Public
 # environment
 APPDATA = C:\Users\doanv\AppData\Roaming
 # environment
+ 
 HOMEDRIVE = C:
 # environment
 PROCESSOR_ARCHITECTURE = AMD64
@@ -186,6 +194,7 @@ ELECTRON_RUN_AS_NODE = 1
 TEMP = /c/Users/doanv/AppData/Local/Temp
 # environment
 VSCODE_IPC_HOOK = \\.\pipe\cd39f469702f2427d9aa53107a7ce83b-1.67.2-main-sock
+ 
 # environment
 TERM = xterm-256color
 # default
@@ -205,7 +214,7 @@ PROCESSOR_REVISION = 6001
 # environment
 PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
 # variable set hash-table stats:
-# Load=96/1024=9%, Rehash=0, Collisions=11/126=9%
+# Load=96/1024=9%, Rehash=0, Collisions=11/123=9%
 
 # Pattern-specific Variable Values
 
@@ -217,16 +226,24 @@ PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
 
 # 68 files, no impossibilities in 1 directories.
 
+ 
 # Implicit Rules
 
 # No implicit rules.
 
 # Files
 
+compile:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 2):
+	g++ -Isrc/Include -Lsrc/lib -o main *.cpp -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer 
+
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-05-23 11:49:49.0759759
+#  Last modified 2022-05-23 14:17:20.4450703
 #  File has been updated.
 #  Successfully updated.
 
@@ -236,54 +253,34 @@ Makefile:
 #  Modification time never checked.
 #  File has not been updated.
 
+# Not a target:
 all:
 #  Command line target.
-#  Implicit rule search has not been done.
-#  Implicit/static pattern stem: ''
+#  Implicit rule search has been done.
 #  File does not exist.
-#  File has been updated.
-#  Needs to be updated (-q is set).
-# automatic
-# @ := all
-# automatic
-# * := 
-# automatic
-# < := 
-# automatic
-# + := 
-# automatic
-# % := 
-# automatic
-# ^ := 
-# automatic
-# ? := 
-# automatic
-# | := 
-# variable set hash-table stats:
-# Load=8/32=25%, Rehash=0, Collisions=1/11=9%
-#  recipe to execute (from 'Makefile', line 2):
-	g++ -Isrc/Include -Lsrc/lib -o main *.cpp -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer
+#  File has not been updated.
 
-# Not a target:
-.SUFFIXES:
+run:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
+#  recipe to execute (from 'Makefile', line 7):
+	menu.exe
 
 # files hash-table stats:
-# Load=4/1024=0%, Rehash=0, Collisions=0/16=0%
+# Load=6/1024=1%, Rehash=0, Collisions=0/16=0%
 # VPATH Search Paths
 
 # No 'vpath' search paths.
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 72 / storage = 983 B / avg = 13 B
-# current buf: size = 8162 B / used = 983 B / count = 72 / avg = 13 B
+# strcache buffers: 1 (0) / strings = 74 / storage = 983 B / avg = 13 B
+# current buf: size = 8162 B / used = 983 B / count = 74 / avg = 13 B
 
-# strcache performance: lookups = 79 / hit rate = 8%
+# strcache performance: lookups = 80 / hit rate = 7%
 # hash-table stats:
-# Load=72/8192=1%, Rehash=0, Collisions=0/79=0%
-# Finished Make data base on Mon May 23 11:52:42 2022
+# Load=74/8192=1%, Rehash=0, Collisions=0/80=0%
+# Finished Make data base on Mon May 23 14:18:04 2022
 
  
